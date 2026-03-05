@@ -247,7 +247,7 @@
 
         <footer>
             <p>© 2026 Muawiyya Kira Nura. Built with GitHub Pages.</p>
-            <p>Contact: <a href="mailto:muawiyya.kira@example.com">muawiyya.kira@example.com</a> (placeholder – update with your real email)</p>
+            <p>Contact: <a href="mailto: mnkira38@gmail.com">mnkira38@gmail.com</a> </p>
         </footer>
     </div>
 </body>
