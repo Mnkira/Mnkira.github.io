@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Chemical Engineer 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -653,7 +653,7 @@
             </div>
             <p>© 2026 Muawiyya Kira Nura. Crafted with <i class="fas fa-heart" style="color: #ff6b6b;"></i> for GitHub Pages</p>
             <p style="margin-top: 10px; font-size: 0.9em;">
-                <i class="fas fa-envelope"></i> muawiyya.kira@example.com · 
+                <i class="fas fa-envelope"></i> mnkira38@gmail.com · 
                 <i class="fas fa-map-marker-alt"></i> Zaria, Nigeria
             </p>
             <p style="margin-top: 20px; font-size: 0.8em; opacity: 0.7;">
